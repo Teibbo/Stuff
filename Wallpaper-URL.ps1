@@ -1,4 +1,4 @@
-$url = "https://github.com/Teibbo/Stuff/blob/main/heh.jpeg"
+$url = "https://raw.githubusercontent.com/Teibbo/Stuff/main/heh.jpeg"
 
 $ext = $url.split(".")[-1]
 
